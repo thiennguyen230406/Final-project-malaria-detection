@@ -30,7 +30,7 @@ To ensure clinical trust, the project incorporates **Explainable AI (Grad-CAM)**
 ```text
 ├── app.py                   # The Streamlit Web Application
 ├── final_notebook.ipynb     # Jupyter Notebook (Data Loading -> Training -> Evaluation)
-├── requirements.txt         # List of dependencies
 ├── README.md                # Project Documentation
+├── cnn_model.h5             # The trained model (Generated after running the notebook)
 ├── malaria_model.h5         # The trained model (Generated after running the notebook)
 └── .gitignore               # Files to ignore (e.g., large datasets)
