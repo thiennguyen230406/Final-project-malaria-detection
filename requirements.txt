@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+tensorflow-datasets
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+streamlit
+Pillow
